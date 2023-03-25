@@ -11,3 +11,25 @@
 | 歪曲事实 | 春秋笔法 | -2 | 已知事实，主观故意曲解，情节恶劣 |
 | | 滥用统计学技术 | -2 |
 | 观点之争 | - | 0 | 观点不同是常有之事，只要无事实错误，不在本项目考虑范围内 |
+
+当前仅收集数据，下一步再开发web可视化应用。
+
+## template
+
+数据使用yaml在git仓库中存储：
+
+```yaml
+title: x
+link: 
+- x
+source: x 
+author:
+- x
+organization: x
+tag:
+- x
+reason: |
+  x
+reporter:
+- x
+```
